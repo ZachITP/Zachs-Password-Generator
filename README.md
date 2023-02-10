@@ -6,7 +6,7 @@ in collaboration with UTSA
 
 #### Purpose
 This application randomly generates passwords by prompting the user if they want to use numbers, special characters, uppercase letters, or lowercase letters. The goal is to create a password that is more secure and harder for hackers to guess. This application uses HTML for the structure, CSS to style the content, and Javascript acts as the engine running the functionality of the website.
-<img src="./Assets/password generator" alt="Password Generator" title="Password Generator">
+<img src="./Assets/password generator.png" alt="Password Generator" title="Password Generator">
 <img src="./Assets/your password.png" alt="example of the prompts" title="your password">
 <img src="./Assets/Thank you.png" alt="finished product" title="Thank you">
 
@@ -29,7 +29,7 @@ https://utsa.bootcampcontent.com/utsa-bootcamp/UTSA-VIRT-FSF-PT-01-2023-U-LOLC/-
 
 
 ## website
-Check it out for yourself! https://zachitp.github.io/Zach-s-Password-Generator/
+Check it out for yourself! https://zachitp.github.io/Zachs-Password-Generator/
 
 
 ## Support
